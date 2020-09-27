@@ -1,5 +1,5 @@
 # resume
 
-# Matthew Hellfeier
-## Contact Info: [Email](mailto:matthellfeier@gmail.com)
+## Matthew Hellfeier
+### Contact Info: [Email](mailto:matthellfeier@gmail.com)
 
