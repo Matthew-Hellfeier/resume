@@ -17,5 +17,9 @@
 - **SEC Web Scraper**
     - Developed a web scraper for the SEC website that searches the website using the SEC EDGAR search engine. Pulls data from the k-10 filing of companies and compares them based on their bottom line. 
       The user can add custom parameters to their search, it is a useful tool when looking for companies to invest in.
+## Community Service 
+- **Renaissance Healing & Learning Center**
+    - Physical therapy center utilizing Hippotherapy to help benefit patients with various neurological and orthopedic 
+      conditions. I took care of the animals and helped during the therapy sessions when appropriate.   
       
     
